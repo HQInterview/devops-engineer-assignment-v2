@@ -23,9 +23,9 @@ Bitcoin Price Fetcher (v0.1)
 5. High Security
 6. Self-healing
 7. Cost-efficiency
-- Please also create the above design in Google Project Playground
-- We will give you all access, but if you think you need something we didn't provide. Please let us know.
-- If you found anything that require developer changes, please let us know when you submitting assignment.
+- Please also create the above design in Google Project Playground, and tell us URL that we can access this app when you submitting assignment.
+- If you think you lag of something we didn't provide. Please let us know.
+- If you found anything that require developer changes, please let us know in text when you submitting assignment.
 
 ## What score ?
 - We favour infrastructure-as-a-code
