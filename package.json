@@ -1,0 +1,24 @@
+{
+  "name": "devops-assignment-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HQInterview/devops-engineer-assignment-v2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HQInterview/devops-engineer-assignment-v2/issues"
+  },
+  "homepage": "https://github.com/HQInterview/devops-engineer-assignment-v2#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "node-fetch": "^1.7.2"
+  }
+}
